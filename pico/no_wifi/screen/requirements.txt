@@ -1,0 +1,4 @@
+circuitpython_stubs
+adafruit_circuitpython_display_text
+adafruit_circuitpython_st7735r
+adafruit_circuitpython_ticks
